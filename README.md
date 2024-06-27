@@ -1,2 +1,2 @@
 # dronecodes
-This is a test python script for automatic delivering of products for drones.
+This is a test python script for automatic delivery of products using ardupilot drones.
